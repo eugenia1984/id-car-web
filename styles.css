@@ -7,12 +7,12 @@
 }
 
 :root {
-  --bg-color-primary: #13005A;
-  --bg-color-secondary: #00337C;
-  --bg-color-shadow: #ff0000;
-  --bg-color-light: #1C82AD;
-  --text-color-green: #03C988;
+  --bg-color-primary: #13005a;
+  --bg-color-secondary: #f7eeee;
+  --bg-color-light: #1c82ad;
+  --text-color-green: #03c988;
   --text-color-white: #ebdede;
+  --text-color-black: #000;
 }
 
 body {
@@ -34,9 +34,13 @@ footer p {
   color: var(--text-color-green);
 }
 
+.tx-black {
+  color: var(--text-color-black);
+}
+
 /* Main */
 main {
-  min-height: 80vh;
+  min-height: 75vh;
 }
 
 .id-car {
@@ -47,7 +51,7 @@ main {
   -moz-border-radius: 24px;
   -ms-border-radius: 24px;
   -o-border-radius: 24px;
-  box-shadow: -7px 7px var(--bg-color-shadow);
+  box-shadow: -7px 7px var(--bg-color-light);
 }
 
 .img-container {
@@ -79,23 +83,43 @@ main {
   filter: grayscale(1);
   -webkit-filter: grayscale(1);
 }
-@media screen and (max-width: 985px ) {
+@media screen and (max-width: 985px) {
   .img-perfil {
     height: 400px;
-  } 
+    filter: grayscale(100%);
+    transition: filter 500s ease;
+    -webkit-transition: filter 500s ease;
+    -moz-transition: filter 500s ease;
+    -ms-transition: filter 500s ease;
+    -o-transition: filter 500s ease;
+}
 }
 
 .img-perfil:hover {
-  filter: grayscale(0.25);
-  -webkit-filter: grayscale(0.25);
+  filter: grayscale(10%);
+  -webkit-filter: grayscale(10%);
 }
 
 .tx-about {
   line-height: 1.8;
   font-size: 18px;
-  padding: 0 1.50rem 0.50rem;
+  padding: 0 1.5rem 0.5rem;
 }
 
+/* BTN CTA contactame */
+.btn-cta-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-cta-section a:hover {
+  background-color: var(--bg-color-primary);
+  border: none;
+}
 /* Footer */
 footer a {
   text-decoration: none;

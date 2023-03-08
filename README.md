@@ -36,6 +36,17 @@ NOS VEMOS PRONTO!!!
 ---
 
 
+## Acostumbrada a la metodologia ágil...
+
+- Hice un MVP que voy a dejar en la branch1:
+
+![image](https://user-images.githubusercontent.com/72580574/223603746-0bc9019d-4741-421b-bb6c-7b19258e4658.png)
+
+- Luego de ver en la clase leyes de GEstalt, temas de diseño, psicología del color y otros temas, la card tuvo un rediseño
+
+---
+
+
 ## Notas
 
 

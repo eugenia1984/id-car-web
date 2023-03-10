@@ -2,7 +2,7 @@
 
 ---
 
-Bienvenidos a la primer practica con HTML5, CSS3 y Bootstrpa, del Curso de <img src="https://img.icons8.com/bubbles/30/null/react.png"/>React con **Codo a Codo**.
+:stars: Bienvenidos a la primer practica con HTML5, CSS3 y Bootstrpa, del Curso de <img src="https://img.icons8.com/bubbles/30/null/react.png"/>React con **Codo a Codo**.
 
 
 ---
@@ -10,6 +10,7 @@ Bienvenidos a la primer practica con HTML5, CSS3 y Bootstrpa, del Curso de <img 
 :tv: -> [Hace click en este link si lo queres ver en vivo](eugenia1984.github.io/id-car-web/)
 
 ---
+
 ## Consigna:
 
 ### ID CARD WEB - DISEÑO FRONT CARD PERSONAL
@@ -46,7 +47,7 @@ NOS VEMOS PRONTO!!!
 
 ![image](https://user-images.githubusercontent.com/72580574/223610425-87ca2bd4-9c40-46d0-a2d6-cdf0766af388.png)
 
-
+-> Espero les guste, acepto sugerencias (siempre estoy por LinkedIn).
 ---
 
 

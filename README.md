@@ -2,12 +2,12 @@
 
 ---
 
-:stars: Bienvenidos a la primer practica con HTML5, CSS3 y Bootstrpa, del Curso de <img src="https://img.icons8.com/bubbles/30/null/react.png"/>React con **Codo a Codo**.
+:stars: Bienvenidos a la primer practica con HTML5, CSS3 y Bootstrap, del Curso de <img src="https://img.icons8.com/bubbles/30/null/react.png"/>React con **Codo a Codo**.
 
 
 ---
 
-:tv: -> [Hace click en este link si lo queres ver en vivo](eugenia1984.github.io/id-car-web/)
+:tv: -> [Hace click en este link si lo queres ver en vivo](https://eugenia1984.github.io/id-car-web/)
 
 ---
 
